@@ -4,7 +4,7 @@ In order to use this repository you need the following:
 * Install vagrant from [this link](https://www.vagrantup.com/downloads.html)
 * Install the vagrant-vcenter plugin by running the following command:
 ```
-  vagrant plugin install vagrant-vcenter
+  vagrant plugin install vagrant-vcenter --plugin-version 0.3.2
 ```
 * Clone down this repository using the following command:
 ```
